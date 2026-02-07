@@ -1,0 +1,20 @@
+John Smith
+1001001
+Savings
+15000.50
+Alice Johnson
+1002001
+Checking
+22500.75
+Robert Wilson
+1003001
+Business
+50000.00
+Emma Thompson
+1004001
+Savings
+18750.25
+David Miller
+1005001
+Checking
+35000.00
